@@ -1,18 +1,17 @@
 ### Hi there 👋
 <img width="100%" height="300" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-<h1 align="center">Hi 👋, I'm Nischal Bade</h1>
+<h1 align="center">Hi 👋 I am Saqline Zaman </h1>
 <h3 align="center">A passionate Web developer from Nepal</h3>
-<img width="400" align="right" src ="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.1826414947.1699833600&semt=ais">
-- 🌱 I’m currently learning **Digital Marketing**
+<img width="400" align="right" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiiEsjZCgBgfA6pLXOpWyUC0OfM2CfzG6tAg&s">
+- 🌱 I’m currently learning **Web development in php**
 
-- 💬 Ask me about **react, node, express, flutter**
+- 💬 Ask me about **Php, Laravel, javascript, react,**
 
-- 📫 How to reach me **nischalchan@gmail.com**
+- 📫 How to reach me **saqlinemoaj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/nis-chal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nis-chal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nischal-bade-b19696218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nischal-bade-b19696218" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saqlinezamanmoaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
